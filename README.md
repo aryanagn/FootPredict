@@ -1,12 +1,16 @@
 ## FootPredict ⚽
 Predict English Premier League Football match winners using Machine learning and Python libraries.
-**P.S. Arsenal all the way!!!**
 
 ## Idea: 
 - Scrap match data with requests and beautifulsoup/pandas
 - Clean the data for machine learning
 - Create models and train/test them to make predictions about the winners
 - Measure any accuracy, error and improve mode/predictions
+
+## Futures to add: 
+- Add classification models
+- Convulational Neural Network models (CNNs) for image classification of players
+- Statistic/patterns to showcase trends (improve)...
 
 ## Files:
 * `scrape_match.ipynb` - a Jupyter notebook that scrapes the football data.
